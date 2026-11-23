@@ -1,0 +1,12 @@
+SYSTEMBERICHT
+=========================
+SYSTEM
+Betriebsystem Linux
+Systemrelease 6.18.58.1-microsoft-standard-WSL2
+Rechnername DESKTOP-QEFEKM8
+Maschinenarchitektur x86_64
+Python
+Python-version 3.14.4
+Implement CPython
+=========================
+Ende des Systemberichts
